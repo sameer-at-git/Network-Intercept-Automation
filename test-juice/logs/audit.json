@@ -1,0 +1,16 @@
+{
+    "keepSettings": {
+        "type": 1,
+        "amount": 2
+    },
+    "auditFilename": "logs/audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1762648414404,
+            "name": "D:\\Project\\Project\\test-juice\\logs\\access.log.2025-11-09",
+            "hash": "47da65379cea3a1a0515bbb2271411a5"
+        }
+    ]
+}
